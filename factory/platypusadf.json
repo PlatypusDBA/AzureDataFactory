@@ -1,0 +1,9 @@
+{
+	"name": "platypusadf",
+	"location": "westus3",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1b0ab59b-6952-4e9e-843e-256e07718a00",
+		"tenantId": "b6f0379f-dcbe-43d9-9123-bb233c454918"
+	}
+}
